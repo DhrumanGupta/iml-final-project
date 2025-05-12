@@ -5,3 +5,4 @@
 *.toc
 
 aux
+.DS_Store
